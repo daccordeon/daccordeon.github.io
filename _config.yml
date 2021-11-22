@@ -20,10 +20,9 @@
 
 title: James Gardner
 email: jameswaltergardner@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Physics research student, published as James W. Gardner 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: Physics research student, published as James W. Gardner 
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
