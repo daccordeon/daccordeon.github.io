@@ -17,6 +17,7 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
+orcid_username: 0000-0002-8592-1452
 github_username: daccordeon
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -28,7 +29,6 @@ github_username: daccordeon
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-orcid_username: 0000-0002-8592-1452
 # Additional icon links
 # additional_links:
 # - title: itsgoingto.be
@@ -48,47 +48,56 @@ orcid_username: 0000-0002-8592-1452
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's James and I'm a physics research student. I currently work at The Australian National University's Centre for Gravitational Astrophysics and study the potential application of nondegenerate internal squeezing to gravitational-wave detection.
+  Hi, my name's James, and I'm a physics research student. I currently work at The Australian National University's Centre for Gravitational Astrophysics as part of the theoretical arm of the quantum-squeezing research group.
 
-  My research interests include <mark>Quantum Optics</mark>, <mark>Gravitational Waves</mark>, and <mark>Quantum Squeezing</mark>.
-
-  My CV is available as a PDF here ...
+  My research interests include <mark>Quantum Optics</mark>, <mark>Gravitational Waves</mark>, and <mark>Quantum Squeezing</mark>. I enjoy discovering a simple understanding of physical phenomena from complex analytic models. My CV is available as a PDF [here](https://daccordeon.github.io/assets/James_W_Gardner_CV.pdf).
 
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Australian National University
+        title: Australian National University (ANU)
         caption: 2018 - 2021
         sub_title: Bachelor of Philosophy (Honours) in Science with Honours in Physics
         description: | # this will include new lines to allow paragraphs
-          My Honours thesis on ... is available here ... . The slides for my Honours final talk are available here ... 
+          During my time at ANU, I enjoyed learning through asking many fruitful questions and found good company and help from my peers.
+
+          My Honours thesis is available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_thesis.pdf), where I explored a novel use of squeezing to improve the sensitivity of gravitational-wave detectors (called <mark>Nondegenerate Internal Squeezing</mark>). The slides for my final Honours talk to the ANU School of Physics are available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_final_talk_slides.pdf). 
 
   - title: Awards and scholarships # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
+      - ANU Achievement Prize for Third Year Physics - 2020
+      - ANU Dean’s Science Education Commendation Award - 2020
+      - ANU National University Scholarship - 2018–2021
                    
   - title: Publications as James W. Gardner # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-       
-  - title: Presentations # Title for the section
+      - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., 2021†, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics, †Conditionally accepted October 2021
+
+  - title: Involvement in the research community # Title for the section
     layout: text # Type of content section (list/text)
-    content: | # this will include new lines to allow paragraphs
-       
-  - title: Membership # Title for the section
-    layout: text # Type of content section (list/text)
-    content: | # this will include new lines to allow paragraphs 
+    content: | # this will include new lines to allow paragraphs       
+      ## Presentations
+
+      - LIGO-Virgo-KAGRA Collaboration Interferometer simulation group - December 2020, *Verification of the newly-added non-linear element in Finesse for optical modelling of advanced gravitational-wave detector configurations*.
+      Slides are available upon request.
       
-  - title: Recreation
+      ## Membership
+      
+      - The ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav, ANU Node) - 2020–present
+
+  - title: Outside of academia # Recreation
     layout: text
     content: | # this will include new lines to allow paragraphs
+      When I am not working in the quantum realm, I enjoy playing games and music with friends. I love storytelling and am an avid player and DM of Dungeons & Dragons. I casually play the trombone (jazz) and piano accordion (folk) and adore Don Ellis's *Autumn*.
 
 
 # Footer
 footer_show_references: true
-references_title: References are available upon request. # (Override references text)
+references_title: References are available upon request # (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
