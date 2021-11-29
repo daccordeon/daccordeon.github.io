@@ -1,4 +1,6 @@
 # https://github.com/sproogen/modern-resume-theme
+# build website: "bundle exec jekyll serve"
+
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
@@ -10,7 +12,7 @@ version: 2
 name: James Gardner
 title: Physics Research Student
 email: james.gardner@anu.edu.au
-# website: www.github.com/sproogen/resume-theme
+website: https://daccordeon.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -50,7 +52,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's James, and I'm a physics research student. I currently work at The Australian National University's Centre for Gravitational Astrophysics as part of the theoretical arm of the quantum-squeezing research group.
 
-  My research interests include <mark>Quantum Optics</mark>, <mark>Gravitational Waves</mark>, and <mark>Quantum Squeezing</mark>. I enjoy discovering a simple understanding of physical phenomena from complex analytic models. My CV is available as a PDF [here](https://daccordeon.github.io/assets/James_W_Gardner_CV.pdf).
+  My research interests include <mark>Quantum Optics</mark>, <mark>Gravitational Waves</mark>, and <mark>Quantum Squeezing</mark>. I enjoy discovering a simple understanding of physical phenomena from complex analytic models. I believe in Open Research and Open Source. My CV is available as a PDF [here](https://daccordeon.github.io/assets/James_W_Gardner_CV.pdf).
 
 content:
   - title: Education # Title for the section
@@ -63,7 +65,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at ANU, I enjoyed learning through asking many fruitful questions and found good company and help from my peers.
 
-          My Honours thesis is available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_thesis.pdf), where I explored a novel use of squeezing to improve the sensitivity of gravitational-wave detectors (called <mark>Nondegenerate Internal Squeezing</mark>). The slides for my final Honours talk to the ANU School of Physics are available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_final_talk_slides.pdf). 
+          My Honours thesis is available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_thesis.pdf), in which I explored a novel use of squeezing to improve the sensitivity of gravitational-wave detectors (called <mark>Nondegenerate Internal Squeezing</mark>). The slides for my final Honours talk to the ANU School of Physics are available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_final_talk_slides.pdf). 
 
   - title: Awards and scholarships # Title for the section
     layout: text # Type of content section (list/text)
@@ -82,9 +84,11 @@ content:
     content: | # this will include new lines to allow paragraphs       
       ## Presentations
 
-      - LIGO-Virgo-KAGRA Collaboration Interferometer simulation group - December 2020, *Verification of the newly-added non-linear element in Finesse for optical modelling of advanced gravitational-wave detector configurations*.
+      - LIGO-Virgo-KAGRA Collaboration Interferometer simulation group - December 2020, *Verification of the newly-added non-linear element in Finesse for optical modelling of advanced gravitational-wave detector configurations*
+      - Various presentations to the ANU Centre for Gravitational Astrophysics
+
       Slides are available upon request.
-      
+
       ## Membership
       
       - The ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav, ANU Node) - 2020–present
@@ -92,7 +96,7 @@ content:
   - title: Outside of academia # Recreation
     layout: text
     content: | # this will include new lines to allow paragraphs
-      When I am not working in the quantum realm, I enjoy playing games and music with friends. I love storytelling and am an avid player and DM of Dungeons & Dragons. I casually play the trombone (jazz) and piano accordion (folk) and adore Don Ellis's *Autumn*.
+      When I am not working in the quantum realm, I enjoy playing games and music with friends. I love storytelling and Dungeons & Dragons. I play the trombone (jazz) and piano accordion (folk) and adore Don Ellis's *Autumn*.
 
 
 # Footer
