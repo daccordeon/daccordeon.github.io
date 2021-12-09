@@ -77,7 +77,7 @@ content:
   - title: Publications as James W. Gardner # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., 2021†, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics, †Conditionally accepted October 2021
+      - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., Accepted December 2021, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics. Paper available upon request.
 
   - title: Involvement in the research community # Title for the section
     layout: text # Type of content section (list/text)
@@ -96,7 +96,7 @@ content:
   - title: Outside of academia # Recreation
     layout: text
     content: | # this will include new lines to allow paragraphs
-      When I am not working in the quantum realm, I enjoy playing games and music with friends. I love storytelling and Dungeons & Dragons. I play the trombone (jazz) and piano accordion (folk) and adore Don Ellis's *Autumn*.
+      When I am not working in the quantum realm, I enjoy playing games and music with friends. I love storytelling and Dungeons & Dragons. I play the trombone (jazz) and piano accordion (folk) and adore Don Ellis's [*Autumn*](https://www.youtube.com/watch?v=5t9oC765WpU&list=PLJa9-iROmUztRhNws6VyqZFvakxiWmH28).
 
 
 # Footer
