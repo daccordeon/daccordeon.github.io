@@ -61,15 +61,18 @@ content:
       - layout: left
         title: Australian National University (ANU)
         caption: 2018 - 2021
-        sub_title: Bachelor of Philosophy (Honours) in Science with Honours in Physics
+        sub_title: Bachelor of Philosophy (Honours) in Science with First Class Honours in Physics
         description: | # this will include new lines to allow paragraphs
           During my time at ANU, I enjoyed learning through asking many fruitful questions and found good company and help from my peers.
 
-          My Honours thesis is available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_thesis.pdf), in which I explored a novel use of squeezing to improve the sensitivity of gravitational-wave detectors (called <mark>Nondegenerate Internal Squeezing</mark>). The slides for my final Honours talk to the ANU School of Physics are available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_final_talk_slides.pdf). 
+          My First Class Honours thesis is available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_thesis.pdf), in which I explored a novel use of squeezing to improve the sensitivity of gravitational-wave detectors (called <mark>Nondegenerate Internal Squeezing</mark>). The slides for my final Honours talk to the ANU School of Physics are available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_final_talk_slides.pdf). 
 
   - title: Awards and scholarships # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
+      - Australian Government Research Training Program Domestic Scholarship - 2022
+      - ANU Supplementary Scholarship - 2022
+      - ANU First Class Honours - 2021
       - ANU Achievement Prize for Third Year Physics - 2020
       - ANU Dean’s Science Education Commendation Award - 2020
       - ANU National University Scholarship - 2018–2021
@@ -77,7 +80,9 @@ content:
   - title: Publications as James W. Gardner # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., Accepted December 2021, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics. Paper available upon request.
+      - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., Accepted December 2021, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics.
+
+      Papers are available upon request.
 
   - title: Involvement in the research community # Title for the section
     layout: text # Type of content section (list/text)
@@ -88,6 +93,7 @@ content:
       - Various presentations to the ANU Centre for Gravitational Astrophysics
 
       Slides are available upon request.
+
 
       ## Membership
       
