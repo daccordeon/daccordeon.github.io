@@ -80,9 +80,7 @@ content:
   - title: Publications as James W. Gardner # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., Accepted December 2021, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics.
-
-      Papers are available upon request.
+      - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., Accepted December 2021, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics. [Available here.](https://arxiv.org/abs/2201.03683)
 
   - title: Involvement in the research community # Title for the section
     layout: text # Type of content section (list/text)
