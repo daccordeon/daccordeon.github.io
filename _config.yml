@@ -65,7 +65,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at ANU, I enjoyed learning through asking many fruitful questions and found good company and help from my peers.
 
-          My First Class Honours thesis is available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_thesis.pdf), in which I explored a novel use of squeezing to improve the sensitivity of gravitational-wave detectors (called <mark>Nondegenerate Internal Squeezing</mark>). The slides for my final Honours talk to the ANU School of Physics are available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_final_talk_slides.pdf). 
+          My First Class Honours thesis is available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_thesis.pdf), in which I explored a novel use of quantum squeezing to improve the sensitivity of gravitational-wave detectors (called <mark>Nondegenerate Internal Squeezing</mark>). The slides for my final Honours talk to the ANU School of Physics are available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_final_talk_slides.pdf). 
 
   - title: Awards and scholarships # Title for the section
     layout: text # Type of content section (list/text)
@@ -95,7 +95,9 @@ content:
 
       ## Membership
       
-      - The ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav, ANU Node) - 2020–present
+      - The LIGO Scientific Collaboration (LSC - OzGrav - ANU group) - 2022–present
+      - The Centre for Gravitational Astrophysics - ANU - 2020–present
+      - The Australian Research Council's Centre of Excellence for Gravitational Wave Discovery (OzGrav, ANU Node) - 2020–present
 
   - title: Outside of academia # Recreation
     layout: text
