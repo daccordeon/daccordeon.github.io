@@ -11,7 +11,7 @@ version: 2
 # Personal info
 name: James Gardner
 title: Physics Research Student
-email: james.gardner@anu.edu.au
+email: james.gardner <at> anu.edu.au
 website: jamesgardner.info
 
 # Dark Mode (true/false/never)
@@ -87,7 +87,7 @@ content:
     content: | # this will include new lines to allow paragraphs       
       ## Presentations
 
-      - OzGrav Data/Astrophysics meeting - February 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical~microphone*
+      - OzGrav Data/Astrophysics meeting - February 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*
       - LIGO-Virgo-KAGRA Collaboration Interferometer simulation group - December 2020, *Verification of the newly-added non-linear element in Finesse for optical modelling of advanced gravitational-wave detector configurations*
       - Various presentations to the ANU Centre for Gravitational Astrophysics
 
