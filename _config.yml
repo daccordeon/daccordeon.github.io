@@ -80,15 +80,16 @@ content:
   - title: Publications as James W. Gardner # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., Accepted December 2021, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics. [Available here.](https://arxiv.org/abs/2201.03683)
+      - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics. This article may be downloaded [here](https://daccordeon.github.io/assets/Gardner_et_al_2022_CWintheLab.pdf) for personal use only. Any other use requires prior permission of the author and AIP Publishing. This article appeared in the American Journal of Physics 90, 286 (2022) and may be found at <https://doi.org/10.1119/10.0009409>.
 
   - title: Involvement in the research community # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs       
       ## Presentations
 
-      - OzGrav Data/Astrophysics meeting - February 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*
-      - LIGO-Virgo-KAGRA Collaboration Interferometer simulation group - December 2020, *Verification of the newly-added non-linear element in Finesse for optical modelling of advanced gravitational-wave detector configurations*
+      - LIGO-Virgo-KAGRA collaboration joint meeting of the advanced interferometer configurations, quantum noise, and laser and auxilary working groups - March 2022, *Nondegenerate internal squeezing*
+      - OzGrav data/astrophysics meeting - February 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*
+      - LIGO-Virgo-KAGRA collaboration interferometer simulation group - December 2020, *Verification of the newly-added non-linear element in Finesse for optical modelling of advanced gravitational-wave detector configurations*
       - Various presentations to the ANU Centre for Gravitational Astrophysics
 
       Slides are available upon request.
