@@ -50,7 +50,7 @@ github_username: daccordeon
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's James, and I'm a physics research student. I currently work at The Australian National University's Centre for Gravitational Astrophysics as part of the theoretical arm of the quantum-squeezing research group.
+  Hi, my name's James, and I'm a physics research student. I currently work at The Australian National University's Centre for Gravitational Astrophysics as part of the theoretical arm of the quantum-squeezing research group and the detector network benchmarking group.
 
   My research interests include <mark>Quantum Optics</mark>, <mark>Gravitational Waves</mark>, and <mark>Quantum Squeezing</mark>. I enjoy discovering a simple understanding of physical phenomena from complex analytic models. I believe in Open Research and Open Source. My CV is available as a PDF [here](https://daccordeon.github.io/assets/James_W_Gardner_CV.pdf).
 
@@ -60,6 +60,13 @@ content:
     content:
       - layout: left
         title: Australian National University (ANU)
+        caption: 2022 - present
+        sub_title: Doctor of Philosophy (PhD) in Physics
+        description: | # this will include new lines to allow paragraphs
+          I have accepted an offer to commence a Physics PhD at ANU in June 2022. This will hopefully involve close collaboration with and visits to The California Institute of Technology (Caltech) in Pasadena CA, USA. My research will involve theoretical work in quantum opto-mechanics motivated by similar goals outlined in my Honours thesis (see below).
+
+      - layout: left
+        title: Australian National University (ANU)
         caption: 2018 - 2021
         sub_title: Bachelor of Philosophy (Honours) in Science with First Class Honours in Physics
         description: | # this will include new lines to allow paragraphs
@@ -67,9 +74,20 @@ content:
 
           My First Class Honours thesis is available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_thesis.pdf), in which I explored a novel use of quantum squeezing to improve the sensitivity of gravitational-wave detectors (called <mark>Nondegenerate Internal Squeezing</mark>). The slides for my final Honours talk to the ANU School of Physics are available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_final_talk_slides.pdf). 
 
+  - title: Employment # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: right
+        title: Australian National University (ANU)
+        caption: February - June 2022
+        sub_title: Research Officer Grade 5/6 (full time)
+        description: | # this will include new lines to allow paragraphs
+          I am currently working as a research assistant at CGA on benchmarking future gravitational-wave detector networks to assess the science case for a detector in Australia. This involved Python programming using an existing package (gwbench) and Bash scripting to interact with Swinburne's OzStar supercomputer.
+
   - title: Awards and scholarships # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
+      - Yale Physics PhD offer (with funded tuition and stipend) - 2022
       - Australian Government Research Training Program Domestic Scholarship - 2022
       - ANU Supplementary Scholarship - 2022
       - ANU First Class Honours - 2021
@@ -100,6 +118,11 @@ content:
       - The LIGO Scientific Collaboration (LSC - OzGrav - ANU group) - 2022–present
       - The Centre for Gravitational Astrophysics - ANU - 2020–present
       - The Australian Research Council's Centre of Excellence for Gravitational Wave Discovery (OzGrav, ANU Node) - 2020–present
+
+
+      ## Media
+
+      - SciTechDaily - April 2022, *Continuous Gravitational Waves in the Lab*. Available at <https://scitechdaily.com/continuous-gravitational-waves-in-the-lab/>.
 
   - title: Outside of academia # Recreation
     layout: text
