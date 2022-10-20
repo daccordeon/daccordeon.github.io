@@ -50,9 +50,9 @@ github_username: daccordeon
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's James, and I'm a physics research student. I currently work at The Australian National University's Centre for Gravitational Astrophysics as part of the theoretical arm of the quantum-squeezing research group and the detector network benchmarking group.
+  Hi, I'm James, and I'm a physics research student. I'm currently visiting the California Institute of Technology as an extended part of my PhD at The Australian National University's Centre for Gravitational Astrophysics.
 
-  My research interests include <mark>Quantum Optics</mark>, <mark>Gravitational Waves</mark>, and <mark>Quantum Squeezing</mark>. I enjoy discovering a simple understanding of physical phenomena from complex analytic models. I believe in Open Research and Open Source. My CV is available as a PDF [here](https://daccordeon.github.io/assets/James_W_Gardner_CV.pdf).
+  My research interests include <mark>Quantum Metrology</mark>, <mark>Quantum Squeezing</mark>, and <mark>Gravitational Waves</mark>. I enjoy discovering a simple understanding of physical phenomena from complex analytic models. I believe in Open Research and Open Source. My CV is available as a PDF [here](https://daccordeon.github.io/assets/James_W_Gardner_CV.pdf).
 
 content:
   - title: Education # Title for the section
@@ -63,7 +63,7 @@ content:
         caption: 2022 - present
         sub_title: Doctor of Philosophy (PhD) in Physics
         description: | # this will include new lines to allow paragraphs
-          I have accepted an offer to commence a Physics PhD at ANU in June 2022. This will hopefully involve close collaboration with and visits to The California Institute of Technology (Caltech) in Pasadena CA, USA. My research will involve theoretical work in quantum opto-mechanics motivated by similar goals outlined in my Honours thesis (see below).
+          I started a Physics PhD at ANU in June 2022. I'm currently in close collaboration with and visiting The California Institute of Technology (Caltech) in Pasadena CA, USA. My research involves theoretical work in quantum opto-mechanics for precision metrology.
 
       - layout: left
         title: Australian National University (ANU)
