@@ -10,9 +10,10 @@ version: 2
 
 # Personal info
 name: James Gardner
-title: Physics Research Student
+title: Physics research student and PhD candidate
 email: james.gardner <at> anu.edu.au
 website: jamesgardner.info
+office: Room 356, Cahill Center for Astronomy and Astrophysics.
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -50,7 +51,7 @@ github_username: daccordeon
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm James, and I'm a physics research student. I'm currently visiting the California Institute of Technology as an extended part of my PhD at The Australian National University's Centre for Gravitational Astrophysics. My office is Room 356, Cahill Center for Astronomy and Astrophysics.
+  Hi, I'm James, and I'm a physics research student and PhD candidate. I'm currently visiting the California Institute of Technology as an extended part of my PhD at The Australian National University's Centre for Gravitational Astrophysics. 
 
   My research interests include <mark>Quantum Metrology</mark>, <mark>Quantum Squeezing</mark>, and <mark>Gravitational Waves</mark>. I enjoy discovering a simple understanding of physical phenomena from complex analytic models. I believe in Open Research and Open Source. My CV is available as a PDF [here](https://daccordeon.github.io/assets/James_W_Gardner_CV.pdf).
 
@@ -87,9 +88,11 @@ content:
   - title: Awards and scholarships # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
+      - ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav) Travel Grant - 2022
       - Yale Physics PhD offer (with funded tuition and stipend) - 2022
       - Australian Government Research Training Program Domestic Scholarship - 2022
       - ANU Supplementary Scholarship - 2022
+      - The John Carver Physics Prize - 2021 (awarded in October 2022). Rewards academic excellence in the ANU Physics Honours specialisation.
       - ANU First Class Honours - 2021
       - ANU Achievement Prize for Third Year Physics - 2020
       - ANU Dean’s Science Education Commendation Award - 2020
