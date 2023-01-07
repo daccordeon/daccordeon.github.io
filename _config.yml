@@ -13,7 +13,6 @@ name: James Gardner
 title: Physics research student and PhD candidate
 email: james.gardner <at> anu.edu.au
 website: jamesgardner.info
-office: Room 356, Cahill Center for Astronomy and Astrophysics.
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -55,6 +54,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   My research interests include <mark>Quantum Metrology</mark>, <mark>Quantum Squeezing</mark>, and <mark>Gravitational Waves</mark>. I enjoy discovering a simple understanding of physical phenomena from complex analytic models. I believe in Open Research and Open Source. My CV is available as a PDF [here](https://daccordeon.github.io/assets/James_W_Gardner_CV.pdf).
 
+  My office is Room 356, Cahill Center for Astronomy and Astrophysics. Do drop in!
+
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -80,7 +81,7 @@ content:
     content:
       - layout: right
         title: Australian National University (ANU)
-        caption: February - June 2022
+        caption: 2022
         sub_title: Research Officer Grade 5/6 (full time)
         description: | # this will include new lines to allow paragraphs
           I worked as a research assistant at CGA on benchmarking future gravitational-wave detector networks to assess the science case for a detector in Australia. This involved Python programming using an existing package (gwbench) and Bash scripting to interact with Swinburne's OzStar supercomputer. This work is ongoing and I aim to write a paper out of it.
@@ -114,7 +115,7 @@ content:
       - LIGO-Virgo-KAGRA collaboration joint meeting of the advanced interferometer configurations, quantum noise, and laser and auxiliary working groups - March 2022, *Nondegenerate internal squeezing*
       - OzGrav data/astrophysics meeting - February 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*
       - LIGO-Virgo-KAGRA collaboration interferometer simulation group - December 2020, *Verification of the newly-added non-linear element in Finesse for optical modelling of advanced gravitational-wave detector configurations*
-      - Various presentations to the ANU Centre for Gravitational Astrophysics
+      - Various internal presentations to the ANU Centre for Gravitational Astrophysics
 
       Slides and posters are available upon reasonable request.
 
@@ -135,7 +136,7 @@ content:
   - title: Outside of academia # Recreation
     layout: text
     content: | # this will include new lines to allow paragraphs
-      When I am not working in the quantum realm, I enjoy playing games and music with friends. I love storytelling and Dungeons & Dragons. I play the trombone (jazz) and piano accordion (folk) and adore Don Ellis's [*Autumn*](https://www.youtube.com/watch?v=5t9oC765WpU&list=PLJa9-iROmUztRhNws6VyqZFvakxiWmH28).
+      When I am not working in the quantum realm, I enjoy playing games and music with friends. I love storytelling and Dungeons & Dragons. I play the trombone (jazz) and piano accordion (folk) and adore Don Ellis's [*Autumn*](https://www.youtube.com/watch?v=5t9oC765WpU&list=PLJa9-iROmUztRhNws6VyqZFvakxiWmH28). When the weather is fine, you may also find me resting on a mountainside.
 
 
 # Footer
