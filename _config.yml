@@ -10,9 +10,9 @@ version: 2
 
 # Personal info
 name: James Gardner
-title: Physics research student and PhD candidate
+title: Physics PhD Candidate
 email: james.gardner <at> anu.edu.au
-website: jamesgardner.info
+website: www.jamesgardner.info
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -26,7 +26,7 @@ github_username: daccordeon
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: jameswgrant
+linkedin_username: james-gardner-aa823426a
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -50,11 +50,11 @@ github_username: daccordeon
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm James, and I'm a physics research student and PhD candidate. I'm currently visiting the California Institute of Technology as an extended part of my PhD at The Australian National University's Centre for Gravitational Astrophysics. 
+  Hi, I'm James, and I'm a physics PhD candidate. I'm currently visiting Caltech (The California Institute of Technology) for 3 years as part of my PhD at The Australian National University's Centre for Gravitational Astrophysics. 
 
   My research interests include <mark>Quantum Metrology</mark>, <mark>Quantum Squeezing</mark>, and <mark>Gravitational Waves</mark>. I enjoy discovering a simple understanding of physical phenomena from complex analytic models. I believe in Open Research and Open Source. My CV is available as a PDF [here](https://daccordeon.github.io/assets/James_W_Gardner_CV.pdf).
 
-  My office is Room 356, Cahill Center for Astronomy and Astrophysics. Do drop in!
+  My current office is Room 356, Cahill Center for Astronomy and Astrophysics. Do drop in!
 
 content:
   - title: Education # Title for the section
@@ -65,7 +65,7 @@ content:
         caption: 2022 - present
         sub_title: Doctor of Philosophy (PhD) in Physics
         description: | # this will include new lines to allow paragraphs
-          I started a Physics PhD at ANU in June 2022. I'm currently closely collaborating with and on an extended visit to The California Institute of Technology (Caltech) in Pasadena CA, USA. My research involves theoretical work in quantum opto-mechanics for precision metrology.
+          I started a Physics PhD at ANU in June 2022. I'm currently closely collaborating with Yanbei Chen and others on an 3-year visit to Caltech in Pasadena CA, USA. My research involves theoretical work in quantum optomechanics for precision metrology.
 
       - layout: left
         title: Australian National University (ANU)
@@ -84,7 +84,7 @@ content:
         caption: 2022
         sub_title: Research Officer Grade 5/6 (full time)
         description: | # this will include new lines to allow paragraphs
-          I worked as a research assistant at CGA on benchmarking future gravitational-wave detector networks to assess the science case for a detector in Australia. This involved Python programming using an existing package (gwbench) and Bash scripting to interact with Swinburne's OzStar supercomputer. This work is ongoing and I aim to write a paper out of it.
+          I worked as a research assistant at CGA on benchmarking future gravitational-wave detector networks to assess the science case for a detector in Australia. This involved Python programming using an existing package (gwbench) and Bash scripting to interact with Swinburne's OzStar supercomputer. A paper is in preparation on this work.
 
   - title: Awards and scholarships # Title for the section
     layout: text # Type of content section (list/text)
@@ -99,25 +99,28 @@ content:
       - ANU Dean’s Science Education Commendation Award - 2020
       - ANU National University Scholarship - 2018–2021
                    
-  - title: Publications as James W. Gardner # Title for the section
+  - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
       - **James W. Gardner**, Min Jet Yap, Vaishali Adya, Sheon Chua, Bram J. J. Slagmolen, David E. McClelland, 2022, *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*, Phys. Rev. D 106, L041101. <https://doi.org/10.1103/PhysRevD.106.L041101>
       - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics 90, 286 (2022). <https://doi.org/10.1119/10.0009409>
 
-  - title: Involvement in the research community # Title for the section
+  - title: Engagement with the research community # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs       
       ## Presentations and posters
 
+      - LIGO-Virgo-KAGRA collaboration (LVK) joint meeting of the advanced interferometer configurations (AIC), quantum noise (QN), and laser and auxiliary (LA) working groups - March 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
+      - American Physical Society (APS) March Meeting - March 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
+        - (Poster also presented)
       - Gordon Research Conference (GRC) - Mechanical Systems in the Quantum Regime - June 2022, *Two-mode squeezing for gravitational-wave detection*. Presented jointly with Mr Daniel Gould.
-      - (Poster) GRC and Seminar - Mechanical Systems in the Quantum Regime - June 2022, *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*
-      - LIGO-Virgo-KAGRA collaboration joint meeting of the advanced interferometer configurations, quantum noise, and laser and auxiliary working groups - March 2022, *Nondegenerate internal squeezing*
-      - OzGrav data/astrophysics meeting - February 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*
-      - LIGO-Virgo-KAGRA collaboration interferometer simulation group - December 2020, *Verification of the newly-added non-linear element in Finesse for optical modelling of advanced gravitational-wave detector configurations*
-      - Various internal presentations to the ANU Centre for Gravitational Astrophysics
+        - (Poster also presented), *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*.
+      - LVK joint meeting of AIC, QN, LA working groups - March 2022, *Nondegenerate internal squeezing*.
+      - OzGrav data/astrophysics meeting - February 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*.
+      - LVK interferometer simulation working group - December 2020, *Verification of the newly-added non-linear element in Finesse for optical modelling of advanced gravitational-wave detector configurations*.
+      - Various internal presentations to the ANU Centre for Gravitational Astrophysics.
 
-      Slides and posters are available upon reasonable request.
+      Presentation slides and posters are available upon reasonable request.
 
 
       ## Membership
