@@ -12,7 +12,7 @@ version: 2
 name: James Gardner
 title: Physics PhD Candidate
 email: james.gardner <at> anu.edu.au
-website: www.jamesgardner.info
+website: http://www.jamesgardner.info
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -50,9 +50,9 @@ linkedin_username: james-gardner-aa823426a
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm James, and I'm a physics PhD candidate. I'm currently visiting Caltech (The California Institute of Technology) for 3 years as part of my PhD at The Australian National University's Centre for Gravitational Astrophysics. 
+  Hi, I'm James, and I'm a physics PhD candidate. I'm currently visiting Caltech for 3 years as part of my PhD at The Australian National University!
 
-  My research interests include <mark>Quantum Metrology</mark>, <mark>Quantum Squeezing</mark>, and <mark>Gravitational Waves</mark>. I enjoy discovering a simple understanding of physical phenomena from complex analytic models. I believe in Open Research and Open Source. My CV is available as a PDF [here](https://daccordeon.github.io/assets/James_W_Gardner_CV.pdf).
+  My research interests include <mark>Quantum Metrology</mark>, <mark>Quantum Squeezing</mark>, and <mark>Gravitational Waves</mark>. I enjoy discovering a simple understanding of physical phenomena from complex analytic models. I believe in Open Research and Open Source. My full CV is available as a PDF [here](https://daccordeon.github.io/assets/James_W_Gardner_CV.pdf) and I include highlights below.
 
   My current office is Room 356, Cahill Center for Astronomy and Astrophysics. Do drop in!
 
@@ -89,11 +89,13 @@ content:
   - title: Awards and scholarships # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
+      - Partial travel stipend from the USA NSF under Award No. PHY-2011968 - 2022-present
       - ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav) Travel Grant - 2022
+      - Australian Government Research Training Program Domestic Scholarship - 2022-present
+      - ANU Supplementary Scholarship - 2022-present
       - Yale Physics PhD offer (with funded tuition and stipend) - 2022
-      - Australian Government Research Training Program Domestic Scholarship - 2022
-      - ANU Supplementary Scholarship - 2022
       - The John Carver Physics Prize - 2021 (awarded in October 2022). Rewards academic excellence in the ANU Physics Honours specialisation.
+      - ANU Chancellor's Letters of Commendation - 2020--2022. For outstanding academic achievement in 2019--21.
       - ANU First Class Honours - 2021
       - ANU Achievement Prize for Third Year Physics - 2020
       - ANU Dean’s Science Education Commendation Award - 2020
@@ -102,7 +104,9 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - **James W. Gardner**, Min Jet Yap, Vaishali Adya, Sheon Chua, Bram J. J. Slagmolen, David E. McClelland, 2022, *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*, Phys. Rev. D 106, L041101. <https://doi.org/10.1103/PhysRevD.106.L041101>
+      - **James W. Gardner**, Ling Sun, Ssohrab Borhanian, Paul D. Lasky, Eric Thrane, David E. McClelland, and Bram J. J. Slagmolen, *Multi-messenger astronomy with a Southern-Hemisphere gravitational-wave observatory*. Submitted on August 24 2023 to Physical Review D. Preprint available at <https://arxiv.org/abs/2308.13103}>
+      - **James W. Gardner**, Tuvia Gefen, Simon A. Haine, Joseph J. Hope, and Yanbei Chen, *Holevo Cramér-Rao Bound for waveform estimation of gravitational waves*. Submitted on August 11 2023 to Physical Review Letters. Preprint available at <https://arxiv.org/abs/2308.06253>    
+      - **James W. Gardner**, Min Jet Yap, Vaishali Adya, Sheon Chua, Bram J. J. Slagmolen, and David E. McClelland, 2022, *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*, Phys. Rev. D 106, L041101. <https://doi.org/10.1103/PhysRevD.106.L041101>
       - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics 90, 286 (2022). <https://doi.org/10.1119/10.0009409>
 
   - title: Engagement with the research community # Title for the section
@@ -110,6 +114,8 @@ content:
     content: | # this will include new lines to allow paragraphs       
       ## Presentations and posters
 
+      - Cosmic Explorer Consortium - Cosmic Explorer Science Call - April 2023, *Prospects for multi-messenger astronomy using an Australian gravitational-wave detector*
+      - OzGrav - Data/Astrophysics meeting - March 2023, *Prospects for an Australian gravitational-wave detector*
       - LIGO-Virgo-KAGRA collaboration (LVK) joint meeting of the advanced interferometer configurations (AIC), quantum noise (QN), and laser and auxiliary (LA) working groups - March 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
       - American Physical Society (APS) March Meeting - March 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
         - (Poster also presented)
@@ -135,6 +141,11 @@ content:
       ## Media
 
       - SciTechDaily - April 2022, *Continuous Gravitational Waves in the Lab*. Available at <https://scitechdaily.com/continuous-gravitational-waves-in-the-lab/>.
+
+  - title: Teaching
+    layout: text 
+    content: |
+      - Guest Lecturer, Caltech - Ph125c Lectures 2 and 3, 2023. *Introduction to density matrices and the quantum theory of measurement.*
 
   - title: Outside of academia # Recreation
     layout: text
