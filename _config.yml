@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   My research interests include <mark>Quantum Metrology</mark>, <mark>Quantum Squeezing</mark>, and <mark>Gravitational Waves</mark>. I enjoy discovering a simple understanding of physical phenomena from complex analytic models. I believe in Open Research and Open Source. My full CV is available as a PDF [here](https://daccordeon.github.io/assets/James_W_Gardner_CV.pdf) and I include highlights below.
 
-  My current office is Room 356, Cahill Center for Astronomy and Astrophysics. Do drop in!
+  My current office is Room 369, Cahill Center for Astronomy and Astrophysics. Do drop in!
 
 content:
   - title: Education # Title for the section
@@ -104,7 +104,7 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - **James W. Gardner**, Ling Sun, Ssohrab Borhanian, Paul D. Lasky, Eric Thrane, David E. McClelland, and Bram J. J. Slagmolen, *Multi-messenger astronomy with a Southern-Hemisphere gravitational-wave observatory*. Submitted on August 24 2023 to Physical Review D. Preprint available at <https://arxiv.org/abs/2308.13103}>
+      - **James W. Gardner**, Ling Sun, Ssohrab Borhanian, Paul D. Lasky, Eric Thrane, David E. McClelland, and Bram J. J. Slagmolen, 2023, *Multi-messenger astronomy with a Southern-Hemisphere gravitational-wave observatory*, Phys. Rev. D 108, 123026. Paper available upon request or at <https://doi.org/10.1103/PhysRevD.108.123026>
       - **James W. Gardner**, Tuvia Gefen, Simon A. Haine, Joseph J. Hope, and Yanbei Chen, *Holevo Cramér-Rao Bound for waveform estimation of gravitational waves*. Submitted on August 11 2023 to Physical Review Letters. Preprint available at <https://arxiv.org/abs/2308.06253>    
       - **James W. Gardner**, Min Jet Yap, Vaishali Adya, Sheon Chua, Bram J. J. Slagmolen, and David E. McClelland, 2022, *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*, Phys. Rev. D 106, L041101. <https://doi.org/10.1103/PhysRevD.106.L041101>
       - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics 90, 286 (2022). <https://doi.org/10.1119/10.0009409>
@@ -113,20 +113,22 @@ content:
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs       
       ## Presentations and posters
-
+      - Northwestern University - Shahriar Group Seminar - December 2023, *Realising the waveform-estimation Holevo Cramér-Rao Bound for gravitational-wave detectors*.
+      - (Poster) Frontiers of Quantum Metrology: Fundamental Physics, Unexpected Connections, and Novel Applications -- KITP UCSB - October 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
+      - LIGO-Virgo-KAGRA collaboration (LVK) joint meeting of the advanced interferometer configurations (AIC), quantum noise (QN), and laser and auxiliary (LA) working groups - September 2023, *Proposal for realising the waveform-estimation Holevo Cramér-Rao Bound*
       - Cosmic Explorer Consortium - Cosmic Explorer Science Call - April 2023, *Prospects for multi-messenger astronomy using an Australian gravitational-wave detector*
       - OzGrav - Data/Astrophysics meeting - March 2023, *Prospects for an Australian gravitational-wave detector*
-      - LIGO-Virgo-KAGRA collaboration (LVK) joint meeting of the advanced interferometer configurations (AIC), quantum noise (QN), and laser and auxiliary (LA) working groups - March 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
+      - LVK joint meeting of the AIC, QN, and LA working groups - March 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
       - American Physical Society (APS) March Meeting - March 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
         - (Poster also presented)
       - Gordon Research Conference (GRC) - Mechanical Systems in the Quantum Regime - June 2022, *Two-mode squeezing for gravitational-wave detection*. Presented jointly with Mr Daniel Gould.
         - (Poster also presented), *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*.
-      - LVK joint meeting of AIC, QN, LA working groups - March 2022, *Nondegenerate internal squeezing*.
+      - LVK joint meeting of AIC, QN, and LA working groups - March 2022, *Nondegenerate internal squeezing*.
       - OzGrav data/astrophysics meeting - February 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*.
       - LVK interferometer simulation working group - December 2020, *Verification of the newly-added non-linear element in Finesse for optical modelling of advanced gravitational-wave detector configurations*.
       - Various internal presentations to the ANU Centre for Gravitational Astrophysics.
 
-      Presentation slides and posters are available upon reasonable request.
+      Presentation slides and posters are available upon request.
 
 
       ## Membership
@@ -138,9 +140,11 @@ content:
       - The Australian Research Council's Centre of Excellence for Gravitational Wave Discovery (OzGrav, ANU Node) - 2020–present
 
 
-      ## Media
+      ## Media coverage
 
+      - Universe Today - August 2023, *It's Time for a Gravitational Wave Observatory in the Southern Hemisphere*, by Brian Koberlein. Available at <https://www.universetoday.com/162961/its-time-for-a-gravitational-wave-observatory-in-the-southern-hemisphere/>
       - SciTechDaily - April 2022, *Continuous Gravitational Waves in the Lab*. Available at <https://scitechdaily.com/continuous-gravitational-waves-in-the-lab/>.
+
 
   - title: Teaching
     layout: text 
@@ -155,7 +159,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: References are available upon reasonable request # (Override references text)
+references_title: References are available upon request # (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
