@@ -104,8 +104,8 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - **James W. Gardner**, Ling Sun, Ssohrab Borhanian, Paul D. Lasky, Eric Thrane, David E. McClelland, and Bram J. J. Slagmolen, 2023, *Multi-messenger astronomy with a Southern-Hemisphere gravitational-wave observatory*, Phys. Rev. D 108, 123026. Paper available upon request or at <https://doi.org/10.1103/PhysRevD.108.123026>
-      - **James W. Gardner**, Tuvia Gefen, Simon A. Haine, Joseph J. Hope, and Yanbei Chen, *Holevo Cramér-Rao Bound for waveform estimation of gravitational waves*. Submitted on August 11 2023 to Physical Review Letters. Preprint available at <https://arxiv.org/abs/2308.06253>    
+      - **James W. Gardner**, Tuvia Gefen, Simon A. Haine, Joseph J. Hope, and Yanbei Chen, *Achieving the Fundamental Quantum Limit of Linear Waveform Estimation*. Phys. Rev. Lett. 132, 130801. <https://doi.org/10.1103/PhysRevLett.132.130801>
+      - **James W. Gardner**, Ling Sun, Ssohrab Borhanian, Paul D. Lasky, Eric Thrane, David E. McClelland, and Bram J. J. Slagmolen, 2023, *Multi-messenger astronomy with a Southern-Hemisphere gravitational-wave observatory*, Phys. Rev. D 108, 123026. <https://doi.org/10.1103/PhysRevD.108.123026>
       - **James W. Gardner**, Min Jet Yap, Vaishali Adya, Sheon Chua, Bram J. J. Slagmolen, and David E. McClelland, 2022, *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*, Phys. Rev. D 106, L041101. <https://doi.org/10.1103/PhysRevD.106.L041101>
       - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics 90, 286 (2022). <https://doi.org/10.1119/10.0009409>
 
