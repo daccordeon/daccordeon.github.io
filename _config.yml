@@ -10,9 +10,9 @@ version: 2
 
 # Personal info
 name: James Gardner
-title: Physics PhD Candidate
-email: james.gardner <at> anu.edu.au
-website: http://www.jamesgardner.info
+title: Physics Postdoctoral Fellow
+email: jamesgardner <at> uchicago <dot> edu
+website: https://daccordeon.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -26,7 +26,7 @@ github_username: daccordeon
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: james-gardner-aa823426a
+# linkedin_username: james-gardner-aa823426a
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -50,68 +50,97 @@ linkedin_username: james-gardner-aa823426a
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm James, and I'm a physics PhD candidate. I'm currently visiting Caltech for 3 years as part of my PhD at The Australian National University!
+  Hi, I'm James! I'm a physics postdoctoral fellow at the University of Chicago (UChicago). I completed my PhD at the Australian National University (ANU) and spent a few years visiting Caltech as part of my PhD research with LIGO.
 
-  My research interests include <mark>Quantum Metrology</mark>, <mark>Quantum Squeezing</mark>, and <mark>Gravitational Waves</mark>. I enjoy discovering a simple understanding of physical phenomena from complex analytic models. I believe in Open Research and Open Source. My full CV is available as a PDF [here](https://daccordeon.github.io/assets/James_W_Gardner_CV.pdf) and I include highlights below.
+  My research interests include <mark>quantum metrology</mark>, <mark>quantum computation</mark>, <mark>gravitational waves</mark>, and <mark>quantum gravity</mark>. I enjoy discovering a simple understanding of physical phenomena from intuitive analytic models. I believe in Open Research and Open Source. My full CV is available upon request and I include highlights below.
 
-  My current office is Room 369, Cahill Center for Astronomy and Astrophysics. Do drop in!
+  My current office is the antechamber: Room 289, William Eckhardt Research Center (ERC). Do drop in!
 
 content:
-  - title: Education # Title for the section
+  - title: Employment # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Australian National University (ANU)
-        caption: 2022 - present
-        sub_title: Doctor of Philosophy (PhD) in Physics
+        title: University of Chicago (UChicago)
+        caption: 2025 - present
+        sub_title: Postdoctoral Scholar
         description: | # this will include new lines to allow paragraphs
-          I started a Physics PhD at ANU in June 2022. I'm currently closely collaborating with Yanbei Chen and others on an 3-year visit to Caltech in Pasadena CA, USA. My research involves theoretical work in quantum optomechanics for precision metrology.
+          I currently hold the Chicago Prize Postdoctoral Fellowship in Theoretical Quantum Science at UChicago. I started this position in September 2025. My research is at the interface between quantum sensing and quantum computation.
 
       - layout: left
         title: Australian National University (ANU)
-        caption: 2018 - 2021
-        sub_title: Bachelor of Philosophy (Honours) in Science with First Class Honours in Physics
+        caption: 2022
+        sub_title: Research Officer Grade 5/6
         description: | # this will include new lines to allow paragraphs
-          During my time at ANU, I enjoyed learning through asking many fruitful questions and found good company and help from my peers.
+          I worked as a research assistant at CGA on benchmarking future gravitational-wave detector networks to assess the science case for a detector in Australia. The associated paper is available [here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.123026).
 
-          My First Class Honours thesis is available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_thesis.pdf), in which I explored a novel use of quantum squeezing to improve the sensitivity of gravitational-wave detectors (called <mark>Nondegenerate Internal Squeezing</mark>). The slides for my final Honours talk to the ANU School of Physics are available [here](https://daccordeon.github.io/assets/James_W_Gardner_Honours_final_talk_slides.pdf). 
+      - layout: left
+        title: Australian National University (ANU)
+        caption: 2020, 2021
+        sub_title: Summer Research Intern
+        description: | # this will include new lines to allow paragraphs
+          Over two summers at CGA, I worked on analytic and numerical modelling of quantum optics configurations for squeezing in LIGO and experimental optics work in the CGA GW Laboratory into tilt-locking.
 
-  - title: Employment # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: right
         title: Australian National University (ANU)
-        caption: 2022
-        sub_title: Research Officer Grade 5/6 (full time)
+        caption: 2022 - 2025
+        sub_title: Doctor of Philosophy (PhD) in Physics
         description: | # this will include new lines to allow paragraphs
-          I worked as a research assistant at CGA on benchmarking future gravitational-wave detector networks to assess the science case for a detector in Australia. This involved Python programming using an existing package (gwbench) and Bash scripting to interact with Swinburne's OzStar supercomputer. A paper is in preparation on this work.
+          I completed a Physics PhD at ANU from June 2022 to August 2025. I was supervised by Joe Hope and Simon Haine at ANU and by Yanbei Chen on an three-year visit to Caltech as a Visiting Special Student. My research involved theoretical work in precision metrology for gravitational-wave detectors. My PhD thesis is available [here](https://hdl.handle.net/1885/733767240).
+
+      - layout: right
+        title: Australian National University (ANU)
+        caption: 2018 - 2021
+        sub_title: Bachelor of Philosophy (Honours) in Science with First Class Honours in Physics
+        description: | # this will include new lines to allow paragraphs
+          The Bachelor of Philosophy (Honours) in Science is an advanced science degree offered at ANU which includes undergraduate research and a great freedom in course selection. During my undergraduate time at ANU, I enjoyed learning through asking many fruitful questions and found good company and help from my peers.
+
+          In my final Honours year, I explored a different way to use quantum squeezing to improve the sensitivity of gravitational-wave detectors (called <mark>Nondegenerate Internal Squeezing</mark>). The associated paper is available [here](https://doi.org/10.1103/PhysRevD.106.L041101). My First Class Honours thesis is available [here](http://hdl.handle.net/1885/256029).
+                   
+  - title: Publications # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      - **James W. Gardner**, Federico Belliardo, Gideon Lee, Tuvia Gefen, and Liang Jiang, *Quantum superresolution and noise spectroscopy with quantum computing*. In review. <https://doi.org/10.48550/arXiv.2602.17862>
+      - **James W. Gardner**, Tuvia Gefen, Ethan Payne, Su Direkci, Sander M. Vermeulen, Simon A. Haine, Joseph J. Hope, Lee McCuller, and Yanbei Chen, *Bayesian frequency estimation at the fundamental quantum limit*. In review. <https://doi.org/10.48550/arXiv.2507.02811>
+      - **James W. Gardner**, Simon A. Haine, Joseph J. Hope, Yanbei Chen, and Tuvia Gefen, *Lindblad estimation with fast and precise quantum control*. Phys. Rev. Applied 24, 044055. <https://doi.org/10.1103/6yzb-43rs>
+      - **James W. Gardner**, Tuvia Gefen, Simon A. Haine, Joseph J. Hope, John Preskill, Yanbei Chen, and Lee McCuller, *Stochastic waveform estimation at the fundamental quantum limit*. PRX Quantum 6, 030311. <https://doi.org/10.1103/h91r-4ws9>
+      - **James W. Gardner**, Tuvia Gefen, Simon A. Haine, Joseph J. Hope, and Yanbei Chen, *Achieving the Fundamental Quantum Limit of Linear Waveform Estimation*. Phys. Rev. Lett. 132, 130801. <https://doi.org/10.1103/PhysRevLett.132.130801>
+      - **James W. Gardner**, Ling Sun, Ssohrab Borhanian, Paul D. Lasky, Eric Thrane, David E. McClelland, and Bram J. J. Slagmolen, 2023, *Multi-messenger astronomy with a Southern-Hemisphere gravitational-wave observatory*, Phys. Rev. D 108, 123026. <https://doi.org/10.1103/PhysRevD.108.123026>
+      - **James W. Gardner**, Min Jet Yap, Vaishali Adya, Sheon Chua, Bram J. J. Slagmolen, and David E. McClelland, 2022, *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*, Phys. Rev. D 106, L041101. <https://doi.org/10.1103/PhysRevD.106.L041101>
+      - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics 90, 286 (2022). <https://doi.org/10.1119/10.0009409>
 
   - title: Awards and scholarships # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
+      - Invited visit with reimbursement to Tokyo Institute of Technology - 2024
+      - GWADW2024 - First Prize, Poster Presentation with Best Sparkler Talk - 2024
+      - Invited visit with reimbursement to Northwestern University - 2023
       - Partial travel stipend from the USA NSF under Award No. PHY-2011968 - 2022-present
       - ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav) Travel Grant - 2022
       - Australian Government Research Training Program Domestic Scholarship - 2022-present
       - ANU Supplementary Scholarship - 2022-present
-      - Yale Physics PhD offer (with funded tuition and stipend) - 2022
       - The John Carver Physics Prize - 2021 (awarded in October 2022). Rewards academic excellence in the ANU Physics Honours specialisation.
       - ANU Chancellor's Letters of Commendation - 2020--2022. For outstanding academic achievement in 2019--21.
       - ANU First Class Honours - 2021
       - ANU Achievement Prize for Third Year Physics - 2020
       - ANU Dean’s Science Education Commendation Award - 2020
       - ANU National University Scholarship - 2018–2021
-                   
-  - title: Publications # Title for the section
-    layout: text # Type of content section (list/text)
-    content: | # this will include new lines to allow paragraphs
-      - **James W. Gardner**, Tuvia Gefen, Simon A. Haine, Joseph J. Hope, and Yanbei Chen, *Achieving the Fundamental Quantum Limit of Linear Waveform Estimation*. Phys. Rev. Lett. 132, 130801. <https://doi.org/10.1103/PhysRevLett.132.130801>
-      - **James W. Gardner**, Ling Sun, Ssohrab Borhanian, Paul D. Lasky, Eric Thrane, David E. McClelland, and Bram J. J. Slagmolen, 2023, *Multi-messenger astronomy with a Southern-Hemisphere gravitational-wave observatory*, Phys. Rev. D 108, 123026. <https://doi.org/10.1103/PhysRevD.108.123026>
-      - **James W. Gardner**, Min Jet Yap, Vaishali Adya, Sheon Chua, Bram J. J. Slagmolen, and David E. McClelland, 2022, *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*, Phys. Rev. D 106, L041101. <https://doi.org/10.1103/PhysRevD.106.L041101>
-      - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics 90, 286 (2022). <https://doi.org/10.1119/10.0009409>
 
   - title: Engagement with the research community # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs       
+      ## Membership
+      - The American Physical Society (APS) - 2024–present
+      - The Australian Institute of Physics (AIP) - 2022–present
+      - The Cosmic Explorer Consortium (ANU group) - 2022–2025
+      - The LIGO Scientific Collaboration (LSC - OzGrav - ANU group) - 2022–2025
+      - The Centre for Gravitational Astrophysics - ANU - 2020–2025
+      - The Australian Research Council's Centre of Excellence for Gravitational Wave Discovery (OzGrav, ANU Node) - 2020–2025
+
+
       ## Presentations and posters
       - Northwestern University - Shahriar Group Seminar - December 2023, *Realising the waveform-estimation Holevo Cramér-Rao Bound for gravitational-wave detectors*.
       - (Poster) Frontiers of Quantum Metrology: Fundamental Physics, Unexpected Connections, and Novel Applications -- KITP UCSB - October 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
@@ -131,17 +160,7 @@ content:
       Presentation slides and posters are available upon request.
 
 
-      ## Membership
-      
-      - The Australian Institute of Physics (AIP) 2022–present
-      - The Cosmic Explorer Consortium (ANU group) - 2022–present
-      - The LIGO Scientific Collaboration (LSC - OzGrav - ANU group) - 2022–present
-      - The Centre for Gravitational Astrophysics - ANU - 2020–present
-      - The Australian Research Council's Centre of Excellence for Gravitational Wave Discovery (OzGrav, ANU Node) - 2020–present
-
-
       ## Media coverage
-
       - Universe Today - August 2023, *It's Time for a Gravitational Wave Observatory in the Southern Hemisphere*, by Brian Koberlein. Available at <https://www.universetoday.com/162961/its-time-for-a-gravitational-wave-observatory-in-the-southern-hemisphere/>
       - SciTechDaily - April 2022, *Continuous Gravitational Waves in the Lab*. Available at <https://scitechdaily.com/continuous-gravitational-waves-in-the-lab/>.
 
@@ -150,11 +169,12 @@ content:
     layout: text 
     content: |
       - Guest Lecturer, Caltech - Ph125c Lectures 2 and 3, 2023. *Introduction to density matrices and the quantum theory of measurement.*
+      - Science Mentors ACT (pro bono), 2019
 
   - title: Outside of academia # Recreation
     layout: text
     content: | # this will include new lines to allow paragraphs
-      When I am not working in the quantum realm, I enjoy playing games and music with friends. I love storytelling and Dungeons & Dragons. I play the trombone (jazz) and piano accordion (folk) and adore Don Ellis's [*Autumn*](https://www.youtube.com/watch?v=5t9oC765WpU&list=PLJa9-iROmUztRhNws6VyqZFvakxiWmH28). When the weather is fine, you may also find me resting on a mountainside.
+      When I'm not lost in the quantum realm, I enjoy playing games and making music with friends. I love storytelling and Dungeons & Dragons. I play the trombone (jazz) and piano accordion (folk) and adore Don Ellis's [*Autumn*](https://www.youtube.com/watch?v=5t9oC765WpU&list=PLJa9-iROmUztRhNws6VyqZFvakxiWmH28). When the weather is fine, you may also find me resting on a mountainside or by a lake these days.
 
 
 # Footer
