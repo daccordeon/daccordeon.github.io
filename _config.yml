@@ -32,7 +32,10 @@ github_username: daccordeon
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 # Additional icon links
-# additional_links:
+additional_links:
+  - title: Google Scholar
+    icon: fas fa-graduation-cap
+    url: https://scholar.google.com.au/citations?user=TLsPWYAAAAAJ&hl=en
 # - title: itsgoingto.be
 #   icon: fas fa-globe
 #   url: https://www.itsgoingto.be
@@ -50,32 +53,32 @@ github_username: daccordeon
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm James! I'm a physics postdoctoral fellow at the University of Chicago (UChicago). I completed my PhD at the Australian National University (ANU) and spent a few years visiting Caltech as part of my PhD research with LIGO.
+  Hi, I'm James! I'm a physics postdoctoral fellow at the University of Chicago. I completed my undergraduate and PhD at the Australian National University and spent a few years visiting Caltech as part of my PhD research with LIGO.
 
-  My research interests include <mark>quantum metrology</mark>, <mark>quantum computation</mark>, <mark>gravitational waves</mark>, and <mark>quantum gravity</mark>. I enjoy discovering a simple understanding of physical phenomena from intuitive analytic models. I believe in Open Research and Open Source. My full CV is available upon request and I include highlights below.
+  My research interests include <mark>quantum metrology</mark>, <mark>quantum computation</mark>, <mark>gravitational waves</mark>, and <mark>quantum gravity</mark>. I enjoy discovering a simple understanding of physical phenomena from intuitive analytic models. My full CV is available upon request and I include highlights below.
 
-  My current office is the antechamber: Room 289, William Eckhardt Research Center (ERC). Do drop in!
+  My current office is Room 289, William Eckhardt Research Center (ERC) at UChicago. Do drop in!
 
 content:
   - title: Employment # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Chicago (UChicago)
+        title: University of Chicago
         caption: 2025 - present
         sub_title: Postdoctoral Scholar
         description: | # this will include new lines to allow paragraphs
           I currently hold the Chicago Prize Postdoctoral Fellowship in Theoretical Quantum Science at UChicago. I started this position in September 2025. My research is at the interface between quantum sensing and quantum computation.
 
       - layout: left
-        title: Australian National University (ANU)
+        title: Australian National University
         caption: 2022
         sub_title: Research Officer Grade 5/6
         description: | # this will include new lines to allow paragraphs
           I worked as a research assistant at CGA on benchmarking future gravitational-wave detector networks to assess the science case for a detector in Australia. The associated paper is available [here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.123026).
 
       - layout: left
-        title: Australian National University (ANU)
+        title: Australian National University
         caption: 2020, 2021
         sub_title: Summer Research Intern
         description: | # this will include new lines to allow paragraphs
@@ -85,14 +88,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: right
-        title: Australian National University (ANU)
+        title: Australian National University
         caption: 2022 - 2025
         sub_title: Doctor of Philosophy (PhD) in Physics
         description: | # this will include new lines to allow paragraphs
           I completed a Physics PhD at ANU from June 2022 to August 2025. I was supervised by Joe Hope and Simon Haine at ANU and by Yanbei Chen on an three-year visit to Caltech as a Visiting Special Student. My research involved theoretical work in precision metrology for gravitational-wave detectors. My PhD thesis is available [here](https://hdl.handle.net/1885/733767240).
 
       - layout: right
-        title: Australian National University (ANU)
+        title: Australian National University
         caption: 2018 - 2021
         sub_title: Bachelor of Philosophy (Honours) in Science with First Class Honours in Physics
         description: | # this will include new lines to allow paragraphs
@@ -103,36 +106,47 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - **James W. Gardner**, Federico Belliardo, Gideon Lee, Tuvia Gefen, and Liang Jiang, *Quantum superresolution and noise spectroscopy with quantum computing*. In review. <https://doi.org/10.48550/arXiv.2602.17862>
-      - **James W. Gardner**, Tuvia Gefen, Ethan Payne, Su Direkci, Sander M. Vermeulen, Simon A. Haine, Joseph J. Hope, Lee McCuller, and Yanbei Chen, *Bayesian frequency estimation at the fundamental quantum limit*. In review. <https://doi.org/10.48550/arXiv.2507.02811>
-      - **James W. Gardner**, Simon A. Haine, Joseph J. Hope, Yanbei Chen, and Tuvia Gefen, *Lindblad estimation with fast and precise quantum control*. Phys. Rev. Applied 24, 044055. <https://doi.org/10.1103/6yzb-43rs>
-      - **James W. Gardner**, Tuvia Gefen, Simon A. Haine, Joseph J. Hope, John Preskill, Yanbei Chen, and Lee McCuller, *Stochastic waveform estimation at the fundamental quantum limit*. PRX Quantum 6, 030311. <https://doi.org/10.1103/h91r-4ws9>
-      - **James W. Gardner**, Tuvia Gefen, Simon A. Haine, Joseph J. Hope, and Yanbei Chen, *Achieving the Fundamental Quantum Limit of Linear Waveform Estimation*. Phys. Rev. Lett. 132, 130801. <https://doi.org/10.1103/PhysRevLett.132.130801>
-      - **James W. Gardner**, Ling Sun, Ssohrab Borhanian, Paul D. Lasky, Eric Thrane, David E. McClelland, and Bram J. J. Slagmolen, 2023, *Multi-messenger astronomy with a Southern-Hemisphere gravitational-wave observatory*, Phys. Rev. D 108, 123026. <https://doi.org/10.1103/PhysRevD.108.123026>
-      - **James W. Gardner**, Min Jet Yap, Vaishali Adya, Sheon Chua, Bram J. J. Slagmolen, and David E. McClelland, 2022, *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*, Phys. Rev. D 106, L041101. <https://doi.org/10.1103/PhysRevD.106.L041101>
-      - **James W. Gardner**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics 90, 286 (2022). <https://doi.org/10.1119/10.0009409>
+      - **JWG**, Federico Belliardo, Jacques Ding, Su Direkci, Hudson Loughlin, Tuvia Gefen, Aashish A. Clerk, and Liang Jiang, 2026, *Waveform estimation at the fundamental quantum limit of coherent control*. In preparation.
+      - Federico Belliardo, **JWG**, Liang Jiang, and Aashish A. Clerk, 2026, *Global Precision Bounds and Success-Probability Guarantees in Quantum Parameter Learning*. Preprint: <https://arxiv.org/abs/2608.15528>
+      - **JWG**, Tuvia Gefen, and Matteo Fadel, 2026, *Stochastic signal sensing with finite energy and dead time at the fundamental quantum limit*. Preprint: <https://arxiv.org/abs/2606.18133>
+      - Jacques Ding, **JWG**, Tuvia Gefen, and Yanbei Chen, 2026, *Gaussian Quantum Metrology with Realistic Linear Sensors*. Preprint: <https://arxiv.org/abs/2606.29616>
+      - **JWG**, Federico Belliardo, Gideon Lee, Tuvia Gefen, and Liang Jiang, 2026, *Quantum superresolution and noise spectroscopy with quantum computing*. Preprint: <https://arxiv.org/abs/2602.17862>
+      - **JWG**, Tuvia Gefen, Ethan Payne, Su Direkci, Sander M. Vermeulen, Simon A. Haine, Joseph J. Hope, Lee McCuller, and Yanbei Chen, 2025, *Bayesian frequency estimation at the fundamental quantum limit*. Preprint: <https://arxiv.org/abs/2507.02811>
+      - Yohei Nishino, **JWG**, Yanbei Chen, and Kentaro Somiya, 2025, *Quantum backaction evasion with reservoir engineering*. Phys. Rev. A 112, 023512. <https://doi.org/10.1103/bv8m-fpv9>
+      - Yohei Nishino, **JWG**, Yanbei Chen, and Kentaro Somiya, 2025, *Teleportation-based speed meter for precision measurement*. npj Quantum Information 11, 168. <https://doi.org/10.1038/s41534-025-01107-9>
+      - **JWG**, Simon A. Haine, Joseph J. Hope, Yanbei Chen, and Tuvia Gefen, 2025, *Lindblad estimation with fast and precise quantum control*. Phys. Rev. Applied 24, 044055. <https://doi.org/10.1103/6yzb-43rs>
+      - **JWG**, Tuvia Gefen, Simon A. Haine, Joseph J. Hope, John Preskill, Yanbei Chen, and Lee McCuller, 2025, *Stochastic waveform estimation at the fundamental quantum limit*. PRX Quantum 6, 030311. <https://doi.org/10.1103/h91r-4ws9>
+      - **JWG**, Tuvia Gefen, Simon A. Haine, Joseph J. Hope, and Yanbei Chen, 2024, *Achieving the Fundamental Quantum Limit of Linear Waveform Estimation*. Phys. Rev. Lett. 132, 130801. <https://doi.org/10.1103/PhysRevLett.132.130801>
+      - **JWG**, Ling Sun, Ssohrab Borhanian, Paul D. Lasky, Eric Thrane, David E. McClelland, and Bram J. J. Slagmolen, 2023, *Multi-messenger astronomy with a Southern-Hemisphere gravitational-wave observatory*, Phys. Rev. D 108, 123026. <https://doi.org/10.1103/PhysRevD.108.123026>
+      - **JWG**, Min Jet Yap, Vaishali Adya, Sheon Chua, Bram J. J. Slagmolen, and David E. McClelland, 2022, *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*, Phys. Rev. D 106, L041101. <https://doi.org/10.1103/PhysRevD.106.L041101>
+      - **JWG**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics 90, 286 (2022). <https://doi.org/10.1119/10.0009409>
 
-  - title: Awards and scholarships # Title for the section
+  #- title: Awards and scholarships # Title for the section
+  - title: Awards # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - Invited visit with reimbursement to Tokyo Institute of Technology - 2024
+      - Invited visit with reimbursement to Berkeley, Carney group - 2026
+      - Invited visit with reimbursement to Caltech, Adhikari group - 2026
+      - Invited visit with reimbursement to Louvain, Goodwin-Jones group - 2026
+      - Invited visit with reimbursement to MIT, Sudhir group - 2025
+      - Invited visit with reimbursement to Tokyo Institute of Technology, Somiya group - 2024
       - GWADW2024 - First Prize, Poster Presentation with Best Sparkler Talk - 2024
-      - Invited visit with reimbursement to Northwestern University - 2023
-      - Partial travel stipend from the USA NSF under Award No. PHY-2011968 - 2022-present
+      - Invited visit with reimbursement to Northwestern University, Shahriar group - 2023
+      - Partial travel stipend from the USA NSF under Award No. PHY-2011968 - 2022–2025
       - ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav) Travel Grant - 2022
-      - Australian Government Research Training Program Domestic Scholarship - 2022-present
-      - ANU Supplementary Scholarship - 2022-present
-      - The John Carver Physics Prize - 2021 (awarded in October 2022). Rewards academic excellence in the ANU Physics Honours specialisation.
+      - ANU HDR Supplementary Scholarship - 2022–2025
+      - Australian Government Research Training Program Domestic Scholarship - 2022–2025
+      - Yale University Physics PhD offer - 2022
+      - The John Carver Physics Prize - 2022. Rewards academic excellence in the ANU Physics Honours Specialisation 2021.
       - ANU Chancellor's Letters of Commendation - 2020--2022. For outstanding academic achievement in 2019--21.
       - ANU First Class Honours - 2021
       - ANU Achievement Prize for Third Year Physics - 2020
       - ANU Dean’s Science Education Commendation Award - 2020
       - ANU National University Scholarship - 2018–2021
 
-  - title: Engagement with the research community # Title for the section
+  - title: Membership # Title for the section
     layout: text # Type of content section (list/text)
-    content: | # this will include new lines to allow paragraphs       
-      ## Membership
+    content: | # this will include new lines to allow paragraphs
       - The American Physical Society (APS) - 2024–present
       - The Australian Institute of Physics (AIP) - 2022–present
       - The Cosmic Explorer Consortium (ANU group) - 2022–2025
@@ -141,40 +155,45 @@ content:
       - The Australian Research Council's Centre of Excellence for Gravitational Wave Discovery (OzGrav, ANU Node) - 2020–2025
 
 
-      ## Presentations and posters
-      - Northwestern University - Shahriar Group Seminar - December 2023, *Realising the waveform-estimation Holevo Cramér-Rao Bound for gravitational-wave detectors*.
-      - (Poster) Frontiers of Quantum Metrology: Fundamental Physics, Unexpected Connections, and Novel Applications -- KITP UCSB - October 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
-      - LIGO-Virgo-KAGRA collaboration (LVK) joint meeting of the advanced interferometer configurations (AIC), quantum noise (QN), and laser and auxiliary (LA) working groups - September 2023, *Proposal for realising the waveform-estimation Holevo Cramér-Rao Bound*
-      - Cosmic Explorer Consortium - Cosmic Explorer Science Call - April 2023, *Prospects for multi-messenger astronomy using an Australian gravitational-wave detector*
-      - OzGrav - Data/Astrophysics meeting - March 2023, *Prospects for an Australian gravitational-wave detector*
-      - LVK joint meeting of the AIC, QN, and LA working groups - March 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
-      - American Physical Society (APS) March Meeting - March 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
-        - (Poster also presented)
-      - Gordon Research Conference (GRC) - Mechanical Systems in the Quantum Regime - June 2022, *Two-mode squeezing for gravitational-wave detection*. Presented jointly with Mr Daniel Gould.
-        - (Poster also presented), *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*.
-      - LVK joint meeting of AIC, QN, and LA working groups - March 2022, *Nondegenerate internal squeezing*.
-      - OzGrav data/astrophysics meeting - February 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*.
-      - LVK interferometer simulation working group - December 2020, *Verification of the newly-added non-linear element in Finesse for optical modelling of advanced gravitational-wave detector configurations*.
-      - Various internal presentations to the ANU Centre for Gravitational Astrophysics.
-
-      Presentation slides and posters are available upon request.
-
-
-      ## Media coverage
-      - Universe Today - August 2023, *It's Time for a Gravitational Wave Observatory in the Southern Hemisphere*, by Brian Koberlein. Available at <https://www.universetoday.com/162961/its-time-for-a-gravitational-wave-observatory-in-the-southern-hemisphere/>
-      - SciTechDaily - April 2022, *Continuous Gravitational Waves in the Lab*. Available at <https://scitechdaily.com/continuous-gravitational-waves-in-the-lab/>.
+  # - title: Presentations and posters
+  #   layout: text
+  #   content: |
+  #     - Northwestern University - Shahriar Group Seminar - December 2023, *Realising the waveform-estimation Holevo Cramér-Rao Bound for gravitational-wave detectors*.
+  #     - (Poster) Frontiers of Quantum Metrology: Fundamental Physics, Unexpected Connections, and Novel Applications -- KITP UCSB - October 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
+  #     - LIGO-Virgo-KAGRA collaboration (LVK) joint meeting of the advanced interferometer configurations (AIC), quantum noise (QN), and laser and auxiliary (LA) working groups - September 2023, *Proposal for realising the waveform-estimation Holevo Cramér-Rao Bound*
+  #     - Cosmic Explorer Consortium - Cosmic Explorer Science Call - April 2023, *Prospects for multi-messenger astronomy using an Australian gravitational-wave detector*
+  #     - OzGrav - Data/Astrophysics meeting - March 2023, *Prospects for an Australian gravitational-wave detector*
+  #     - LVK joint meeting of the AIC, QN, and LA working groups - March 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
+  #     - American Physical Society (APS) March Meeting - March 2023, *Optimal measurement for detuned–cavity based quantum metrology with applications to gravitational-wave detection*.
+  #       - (Poster also presented)
+  #     - Gordon Research Conference (GRC) - Mechanical Systems in the Quantum Regime - June 2022, *Two-mode squeezing for gravitational-wave detection*. Presented jointly with Mr Daniel Gould.
+  #       - (Poster also presented), *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*.
+  #     - LVK joint meeting of AIC, QN, and LA working groups - March 2022, *Nondegenerate internal squeezing*.
+  #     - OzGrav data/astrophysics meeting - February 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*.
+  #     - LVK interferometer simulation working group - December 2020, *Verification of the newly-added non-linear element in Finesse for optical modelling of advanced gravitational-wave detector configurations*.
+  #     - Various internal presentations to the ANU Centre for Gravitational Astrophysics.
+  #
+  #     Presentation slides and posters are available upon request.
 
 
-  - title: Teaching
-    layout: text 
-    content: |
-      - Guest Lecturer, Caltech - Ph125c Lectures 2 and 3, 2023. *Introduction to density matrices and the quantum theory of measurement.*
-      - Science Mentors ACT (pro bono), 2019
+  # - title: Media coverage
+  #   layout: text
+  #   content: |
+  #     - Universe Today - August 2023, *It's Time for a Gravitational Wave Observatory in the Southern Hemisphere*, by Brian Koberlein. Available at <https://www.universetoday.com/162961/its-time-for-a-gravitational-wave-observatory-in-the-southern-hemisphere/>
+  #     - SciTechDaily - April 2022, *Continuous Gravitational Waves in the Lab*. Available at <https://scitechdaily.com/continuous-gravitational-waves-in-the-lab/>.
 
-  - title: Outside of academia # Recreation
+
+  # - title: Teaching
+  #   layout: text
+  #   content: |
+  #     - Guest Lecturer, Caltech - Ph125c Lectures 2 and 3, 2023. *Introduction to density matrices and the quantum theory of measurement.*
+  #     - Science Mentors ACT (pro bono), 2019
+
+  #- title: Outside of academia # Recreation
+  - title: Recreation
     layout: text
     content: | # this will include new lines to allow paragraphs
-      When I'm not lost in the quantum realm, I enjoy playing games and making music with friends. I love storytelling and Dungeons & Dragons. I play the trombone (jazz) and piano accordion (folk) and adore Don Ellis's [*Autumn*](https://www.youtube.com/watch?v=5t9oC765WpU&list=PLJa9-iROmUztRhNws6VyqZFvakxiWmH28). When the weather is fine, you may also find me resting on a mountainside or by a lake these days.
+      When I'm not lost in the quantum realm, I enjoy playing games and making music with friends. I love storytelling and Dungeons & Dragons. I play the trombone (jazz) and piano accordion (folk) and adore Don Ellis's *Autumn*. When the weather is fine, you may also find me climbing or resting by the lake.
 
 
 # Footer
