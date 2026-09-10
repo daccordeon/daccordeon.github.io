@@ -9,7 +9,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: James Gardner
+name: James W. Gardner
 title: Physics Postdoctoral Fellow
 email: jamesgardner <at> uchicago <dot> edu
 website: https://daccordeon.github.io/
@@ -66,7 +66,8 @@ content:
       - layout: left
         title: University of Chicago
         caption: 2025 - present
-        sub_title: Postdoctoral Scholar
+        sub_title: Postdoctoral Fellow
+        #sub_title: Postdoctoral Scholar
         description: | # this will include new lines to allow paragraphs
           I currently hold the Chicago Prize Postdoctoral Fellowship in Theoretical Quantum Science at UChicago. I started this position in September 2025. My research is at the interface between quantum sensing and quantum computation.
 
@@ -90,7 +91,7 @@ content:
       - layout: right
         title: Australian National University
         caption: 2022 - 2025
-        sub_title: Doctor of Philosophy (PhD) in Physics
+        sub_title: Doctor of Philosophy in Physics
         description: | # this will include new lines to allow paragraphs
           I completed a Physics PhD at ANU from June 2022 to August 2025. I was supervised by Joe Hope and Simon Haine at ANU and by Yanbei Chen on an three-year visit to Caltech as a Visiting Special Student. My research involved theoretical work in precision metrology for gravitational-wave detectors. My PhD thesis is available [here](https://hdl.handle.net/1885/733767240).
 
