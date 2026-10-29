@@ -53,11 +53,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm James! I'm a physics postdoctoral fellow at the University of Chicago. I completed my undergraduate and PhD at the Australian National University and spent a few years visiting Caltech as part of my PhD research with LIGO.
+  Hi, I'm James! I'm a postdoctoral fellow in physics at the University of Chicago. I completed my undergraduate and PhD at the Australian National University in Canberra and spent a few years visiting Caltech as part of my PhD research with LIGO.
 
-  My research interests include <mark>quantum metrology</mark>, <mark>quantum computation</mark>, <mark>gravitational waves</mark>, and <mark>quantum gravity</mark>. I enjoy discovering a simple understanding of physical phenomena from intuitive analytic models. My full CV is available upon request and I include highlights below.
+  My research interests include <mark>quantum sensing and metrology</mark>, <mark>quantum computing</mark>, <mark>gravitational waves</mark>, <mark>dark matter</mark>, and <mark>quantum gravity</mark>. I enjoy finding a clear understanding of physical phenomena from simple analytic models. My full CV is available upon request and I include highlights below.
 
-  My current office is Room 289, William Eckhardt Research Center (ERC) at UChicago. Do drop in!
+  My office is Room 289, William Eckhardt Research Center at UChicago. Come by anytime!
 
 content:
   - title: Employment # Title for the section
@@ -69,7 +69,7 @@ content:
         sub_title: Postdoctoral Fellow
         #sub_title: Postdoctoral Scholar
         description: | # this will include new lines to allow paragraphs
-          I currently hold the Chicago Prize Postdoctoral Fellowship in Theoretical Quantum Science at UChicago. I started this position in September 2025. My research is at the interface between quantum sensing and quantum computation.
+          I currently hold a Chicago Prize Postdoctoral Fellowship in Theoretical Quantum Science at UChicago. I started this position in September 2025. My research is at the interface between quantum sensing and quantum computing.
 
       - layout: left
         title: Australian National University
@@ -98,16 +98,16 @@ content:
       - layout: right
         title: Australian National University
         caption: 2018 - 2021
-        sub_title: Bachelor of Philosophy (Honours) in Science with First Class Honours in Physics
+        sub_title: Bachelor of Philosophy (Honours) in Science with Honours in Physics
         description: | # this will include new lines to allow paragraphs
           The Bachelor of Philosophy (Honours) in Science is an advanced science degree offered at ANU which includes undergraduate research and a great freedom in course selection. During my undergraduate time at ANU, I enjoyed learning through asking many fruitful questions and found good company and help from my peers.
 
-          In my final Honours year, I explored a different way to use quantum squeezing to improve the sensitivity of gravitational-wave detectors (called <mark>Nondegenerate Internal Squeezing</mark>). The associated paper is available [here](https://doi.org/10.1103/PhysRevD.106.L041101). My First Class Honours thesis is available [here](http://hdl.handle.net/1885/256029).
+          In my final Honours year, I explored a different way to use quantum squeezing to improve the sensitivity of gravitational-wave detectors (called <mark>Nondegenerate Internal Squeezing</mark>). The associated paper is available [here](https://doi.org/10.1103/PhysRevD.106.L041101). My Honours thesis is available [here](http://hdl.handle.net/1885/256029).
                    
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - **JWG**, Federico Belliardo, Jacques Ding, Su Direkci, Hudson Loughlin, Tuvia Gefen, Aashish A. Clerk, and Liang Jiang, 2026, *Waveform estimation at the fundamental quantum limit of coherent control*. In preparation.
+      - **JWG**, Jacques Ding, Su Direkci, Hudson Loughlin, Federico Belliardo, Tuvia Gefen, Aashish A. Clerk, and Liang Jiang, 2026, *Waveform estimation at the fundamental quantum limit of coherent control*. In preparation.
       - Federico Belliardo, **JWG**, Liang Jiang, and Aashish A. Clerk, 2026, *Global Precision Bounds and Success-Probability Guarantees in Quantum Parameter Learning*. Preprint: <https://arxiv.org/abs/2608.15528>
       - **JWG**, Tuvia Gefen, and Matteo Fadel, 2026, *Stochastic signal sensing with finite energy and dead time at the fundamental quantum limit*. Preprint: <https://arxiv.org/abs/2606.18133>
       - Jacques Ding, **JWG**, Tuvia Gefen, and Yanbei Chen, 2026, *Gaussian Quantum Metrology with Realistic Linear Sensors*. Preprint: <https://arxiv.org/abs/2606.29616>
@@ -126,6 +126,7 @@ content:
   - title: Awards # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
+      - J G Crawford Prize from the Australian National University for my PhD thesis - 2026\\
       - Invited visit with reimbursement to Berkeley, Carney group - 2026
       - Invited visit with reimbursement to Caltech, Adhikari group - 2026
       - Invited visit with reimbursement to Louvain, Goodwin-Jones group - 2026
@@ -194,7 +195,7 @@ content:
   - title: Recreation
     layout: text
     content: | # this will include new lines to allow paragraphs
-      When I'm not lost in the quantum realm, I enjoy playing games and making music with friends. I love storytelling and Dungeons & Dragons. I play the trombone (jazz) and piano accordion (folk) and adore Don Ellis's *Autumn*. When the weather is fine, you may also find me climbing or resting by the lake.
+      When I'm not lost in the quantum realm, I enjoy playing games and making music with friends. I love storytelling and Dungeons & Dragons. I play the trombone (jazz) and piano accordion (folk) and adore Don Ellis's *Autumn*. When the weather is fine, you may also find me rock climbing or cycling along the lakeshore.
 
 
 # Footer
