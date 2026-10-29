@@ -53,7 +53,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm James! I'm a postdoctoral fellow in physics at the University of Chicago. I completed my undergraduate and PhD at the Australian National University in Canberra and spent a few years visiting Caltech as part of my PhD research with LIGO.
+  Hi, I'm James! I'm a postdoctoral fellow in physics at the University of Chicago. I completed my undergraduate and PhD at the Australian National University and spent a few years visiting Caltech as part of my PhD research with LIGO.
 
   My research interests include <mark>quantum sensing and metrology</mark>, <mark>quantum computing</mark>, <mark>gravitational waves</mark>, <mark>dark matter</mark>, and <mark>quantum gravity</mark>. I enjoy finding a clear understanding of physical phenomena from simple analytic models. My full CV is available upon request and I include highlights below.
 
@@ -102,7 +102,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           The Bachelor of Philosophy (Honours) in Science is an advanced science degree offered at ANU which includes undergraduate research and a great freedom in course selection. During my undergraduate time at ANU, I enjoyed learning through asking many fruitful questions and found good company and help from my peers.
 
-          In my final Honours year, I explored a different way to use quantum squeezing to improve the sensitivity of gravitational-wave detectors (called <mark>Nondegenerate Internal Squeezing</mark>). The associated paper is available [here](https://doi.org/10.1103/PhysRevD.106.L041101). My Honours thesis is available [here](http://hdl.handle.net/1885/256029).
+          In my Honours year, I explored a different way to use quantum squeezing to improve the sensitivity of gravitational-wave detectors. The associated paper is available [here](https://doi.org/10.1103/PhysRevD.106.L041101). My Honours thesis is available [here](http://hdl.handle.net/1885/256029).
                    
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
@@ -126,14 +126,8 @@ content:
   - title: Awards # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - J G Crawford Prize from the Australian National University for my PhD thesis - 2026\\
-      - Invited visit with reimbursement to Berkeley, Carney group - 2026
-      - Invited visit with reimbursement to Caltech, Adhikari group - 2026
-      - Invited visit with reimbursement to Louvain, Goodwin-Jones group - 2026
-      - Invited visit with reimbursement to MIT, Sudhir group - 2025
-      - Invited visit with reimbursement to Tokyo Institute of Technology, Somiya group - 2024
+      - J G Crawford Prize from the Australian National University for my PhD thesis - 2026
       - GWADW2024 - First Prize, Poster Presentation with Best Sparkler Talk - 2024
-      - Invited visit with reimbursement to Northwestern University, Shahriar group - 2023
       - Partial travel stipend from the USA NSF under Award No. PHY-2011968 - 2022–2025
       - ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav) Travel Grant - 2022
       - ANU HDR Supplementary Scholarship - 2022–2025
