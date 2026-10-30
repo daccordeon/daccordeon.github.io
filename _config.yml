@@ -93,7 +93,7 @@ content:
         caption: 2022 - 2025
         sub_title: Doctor of Philosophy in Physics
         description: | # this will include new lines to allow paragraphs
-          I completed a Physics PhD at ANU from June 2022 to August 2025. I was supervised by Joe Hope and Simon Haine at ANU and by Yanbei Chen on an three-year visit to Caltech as a Visiting Special Student. My research involved theoretical work in precision metrology for gravitational-wave detectors. My PhD thesis is available [here](https://hdl.handle.net/1885/733767240).
+          I completed a Physics PhD at ANU from June 2022 to August 2025. I was supervised by Joe Hope and Simon Haine at ANU and by Yanbei Chen on a three-year visit to Caltech as a Visiting Special Student. My research involved theoretical work in precision metrology for gravitational-wave detectors. My PhD thesis is available [here](https://hdl.handle.net/1885/733767240).
 
       - layout: right
         title: Australian National University
@@ -107,7 +107,7 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - **JWG**, Jacques Ding, Su Direkci, Hudson Loughlin, Federico Belliardo, Tuvia Gefen, Aashish A. Clerk, and Liang Jiang, 2026, *Waveform estimation at the fundamental quantum limit of coherent control*. In preparation.
+      - **JWG**, Jacques Ding, Hudson Loughlin, Su Direkci, Federico Belliardo, Tuvia Gefen, Aashish A. Clerk, and Liang Jiang, 2026, *Waveform estimation at the fundamental limit of quantum computation*. In preparation.
       - Federico Belliardo, **JWG**, Liang Jiang, and Aashish A. Clerk, 2026, *Global Precision Bounds and Success-Probability Guarantees in Quantum Parameter Learning*. Preprint: <https://arxiv.org/abs/2608.15528>
       - **JWG**, Tuvia Gefen, and Matteo Fadel, 2026, *Stochastic signal sensing with finite energy and dead time at the fundamental quantum limit*. Preprint: <https://arxiv.org/abs/2606.18133>
       - Jacques Ding, **JWG**, Tuvia Gefen, and Yanbei Chen, 2026, *Gaussian Quantum Metrology with Realistic Linear Sensors*. Preprint: <https://arxiv.org/abs/2606.29616>
@@ -118,7 +118,7 @@ content:
       - **JWG**, Simon A. Haine, Joseph J. Hope, Yanbei Chen, and Tuvia Gefen, 2025, *Lindblad estimation with fast and precise quantum control*. Phys. Rev. Applied 24, 044055. <https://doi.org/10.1103/6yzb-43rs>
       - **JWG**, Tuvia Gefen, Simon A. Haine, Joseph J. Hope, John Preskill, Yanbei Chen, and Lee McCuller, 2025, *Stochastic waveform estimation at the fundamental quantum limit*. PRX Quantum 6, 030311. <https://doi.org/10.1103/h91r-4ws9>
       - **JWG**, Tuvia Gefen, Simon A. Haine, Joseph J. Hope, and Yanbei Chen, 2024, *Achieving the Fundamental Quantum Limit of Linear Waveform Estimation*. Phys. Rev. Lett. 132, 130801. <https://doi.org/10.1103/PhysRevLett.132.130801>
-      - **JWG**, Ling Sun, Ssohrab Borhanian, Paul D. Lasky, Eric Thrane, David E. McClelland, and Bram J. J. Slagmolen, 2023, *Multi-messenger astronomy with a Southern-Hemisphere gravitational-wave observatory*, Phys. Rev. D 108, 123026. <https://doi.org/10.1103/PhysRevD.108.123026>
+      - **JWG**, Ling Sun, Ssohrab Borhanian, Paul D. Lasky, Eric Thrane, David E. McClelland, and Bram J. J. Slagmolen, 2023, *Multimessenger astronomy with a Southern-hemisphere gravitational-wave observatory*, Phys. Rev. D 108, 123026. <https://doi.org/10.1103/PhysRevD.108.123026>
       - **JWG**, Min Jet Yap, Vaishali Adya, Sheon Chua, Bram J. J. Slagmolen, and David E. McClelland, 2022, *Nondegenerate internal squeezing: an all-optical, loss-resistant quantum technique for gravitational-wave detection*, Phys. Rev. D 106, L041101. <https://doi.org/10.1103/PhysRevD.106.L041101>
       - **JWG**, Hannah Middleton, Changrong Liu, Andrew Melatos, Robin Evans, William Moran, et al., 2022, *Continuous gravitational waves in the lab: recovering audio signals with a table-top optical microphone*, American Journal of Physics 90, 286 (2022). <https://doi.org/10.1119/10.0009409>
 
@@ -134,7 +134,7 @@ content:
       - Australian Government Research Training Program Domestic Scholarship - 2022–2025
       - Yale University Physics PhD offer - 2022
       - The John Carver Physics Prize - 2022. Rewards academic excellence in the ANU Physics Honours Specialisation 2021.
-      - ANU Chancellor's Letters of Commendation - 2020--2022. For outstanding academic achievement in 2019--21.
+      - ANU Chancellor's Letters of Commendation - 2020–2022. For outstanding academic achievement in 2019–2021.
       - ANU First Class Honours - 2021
       - ANU Achievement Prize for Third Year Physics - 2020
       - ANU Dean’s Science Education Commendation Award - 2020
