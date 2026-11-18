@@ -6,4 +6,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
+# Link previews (WhatsApp, iMessage, Slack, Google) read these, not the
+# browser-tab title. Without them the SEO plugin falls back to site.title,
+# which this theme uses for the job title shown under the name.
+title: James W. Gardner
+description: Physics Postdoctoral Fellow, University of Chicago
+seo:
+  name: James W. Gardner
 ---
